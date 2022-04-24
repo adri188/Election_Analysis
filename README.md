@@ -15,7 +15,7 @@ The election commission has requested some additional data to complete the audit
     7. Percentage of votes from each county out of the total count
     8. The county with the highest turnout
 
-Finally, you’ll provide a written analysis of the election audit for the election commission, including the new results and a clearly written overview of your methods. As with all written analyses, this will help your audience understand what you did and what they might be able to do with the data you presented.
+Below results are presented along a written summary of the resuls and the methods use to compelte this audit.
 
   
  ## Resources
@@ -54,9 +54,15 @@ Winning Percentage: 73.8%
 ### Election-Audit Summary 
 
 The method used for this analysis can be used as a template to audit upcoming elections by making a few modifications. 
--The code consists in reading data from a tabulated file
--Extracting desired information
--Calculating outputs 
+This code consists in: 
+- Importing data from a tabulated file
+- Creating desired variables
+- Extracting requested information:
+   > Add to total vote count
+   > Create Candidate List and County List 
+   > Add votes to each candidate and County
+- Calculating results 
+   > Based on conditionals evaluate winning candidate and largest county
 -Writing a report
 
 #### To use this on your next congressional election Follow this steps: 
