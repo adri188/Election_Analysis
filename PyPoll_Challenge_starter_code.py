@@ -133,7 +133,7 @@ with open(file_to_save, "w") as txt_file:
         candidate_results = (
             f"\n{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
-        # Print each candidate's voter count and percentage to the
+        # Print each candidate's voter count and percentgit age to the
         # terminal.
         print(candidate_results)
         #  Save the candidate results to our text file.
