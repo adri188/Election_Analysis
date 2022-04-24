@@ -15,12 +15,13 @@ The election commission has requested some additional data to complete the audit
     7. Percentage of votes from each county out of the total count
     8. The county with the highest turnout
 
-Below results are presented along a written summary of the resuls and the methods use to compelte this audit.
+A written summary of the resuls and the methods use to complete this audit are presented below.
 
   
  ## Resources
- Data Sources: election_results.csv
- Software: Python 3.6.1, VS Code 1.66.2
+ 
+ * Data Sources: election_results.csv
+ * Software: Python 3.6.1, VS Code 1.66.2
  
  ## Summary
 
