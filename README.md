@@ -15,6 +15,18 @@ Colorado board of directors presented a task to complete election audit for the 
  
  ## Summary
  
+ Election Results
+------------------------------------------------
+ Total Votes: 369711
+------------------------------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+------------------------------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+ 
  ## Challenge Overview
  
  ## Challenge Summary 
