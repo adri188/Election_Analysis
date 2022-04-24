@@ -61,7 +61,7 @@ This code consists in:
 - Extracting requested information:
    > Add to total vote count
    > Create Candidate List and County List 
-   > Add votes to each candidate and County
+   > Add votes for each candidate and County
 - Calculating results 
    > Based on conditionals evaluate winning candidate and largest county
 -Writing a report
@@ -76,5 +76,14 @@ This code consists in:
 
 <img width="774" alt="Screen Shot 2022-04-24 at 3 24 47 PM" src="https://user-images.githubusercontent.com/102937320/164999258-1dda97a9-4160-4bc3-93e7-8cfa24be13b0.png">
 
-If you are interested in auditing multiple elections at once, you know were to find me :) . 
+#### To use this on any election
+
+Based on csv file, you can get candidate and county reference (or position on list)  and modify accordingly  on this lines 
+<img width="414" alt="Screen Shot 2022-04-24 at 4 24 19 PM" src="https://user-images.githubusercontent.com/102937320/165000980-c901f7b4-2e4d-4d5a-987d-3a379dc2e957.png">
+
+You can add additional variables and  modify lists and dictionaries following same structure as counties to collect any other  desired data, such as parties, race, etc.
+
+
+
+
 
